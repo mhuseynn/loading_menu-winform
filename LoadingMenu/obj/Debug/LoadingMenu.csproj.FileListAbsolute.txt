@@ -1,0 +1,10 @@
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\bin\Debug\LoadingMenu.exe.config
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\bin\Debug\LoadingMenu.exe
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\bin\Debug\LoadingMenu.pdb
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\obj\Debug\LoadingMenu.csproj.AssemblyReference.cache
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\obj\Debug\LoadingMenu.Form1.resources
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\obj\Debug\LoadingMenu.Properties.Resources.resources
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\obj\Debug\LoadingMenu.csproj.GenerateResource.cache
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\obj\Debug\LoadingMenu.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\obj\Debug\LoadingMenu.exe
+C:\Users\Huseyn\source\repos\LoadingMenu\LoadingMenu\obj\Debug\LoadingMenu.pdb
